@@ -1,0 +1,245 @@
+@charset "utf-8";
+body{
+	margin: 0px ;
+	padding: 0px;
+	background:#eef;
+	height: auto;
+	}
+
+#slider-container{
+	width: 100%;
+	height: 400px;
+	margin-top: -470px;
+	
+}
+#back,#next{
+	width: 60px;
+	height: 50px;
+	
+	font-family: Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', 'serif';
+}
+.banner{
+	widows: 100%;
+	height: 150px;
+	background: #0B111E;
+}
+.banner-binlik{
+	width: 1000px;
+	height: 130px;
+	margin: 0px auto;	
+}
+.banner-sol{
+	width: 400px;
+	height:140px;
+	float: left;
+	
+}
+.logo img{width: 330px;
+	height: 150px;
+	margin-left: -120px;
+	cursor: pointer;
+	margin-top: -100px;
+	cursor: pointer;
+	
+	
+}
+.anasayfa{
+	width:450px;
+	height: 60px;
+	margin-left: 150px;
+	margin-top: 60px;
+	float: left;
+	cursor: pointer;
+}
+.anasayfa ul li{float: left; list-style-type: none; padding: 10px;  margin-top: -20px; font-size: 22px; font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";}
+.anasayfa ul li a{color: #8CC2E5; text-decoration: none;}
+.anasayfa ul li a:hover{color:#21365A;}
+
+
+
+.banner-sag{
+	width: 500px;
+	height: 130px;
+	float: right;
+	text-align: right;
+}
+.temizle{
+	width: 100%;
+	clear: both;	
+}
+.nardo img{
+	width:100%;
+	height: 700px;}	
+
+.menu{
+	width: 1200px;
+	height: 70px;
+	background:#8CC2E5;
+	margin-top: 160px;
+	margin-left: 352px;
+	border-radius: 10px;
+}
+.menu ul li{float: left; 
+	list-style-type: none; 
+	margin-left: 60px; 
+	margin-top: 25px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size: 18px}
+.menu ul li a{color: #0B111E; text-decoration: none;  }
+.menu ul li a:hover{color:#476578;  }
+.menu-binlik{
+	width: 1300px;
+	height: 70px;
+	padding-left: 0px;
+	}
+	.nardo{ width:100%;
+height:550px;
+}
+.nardo img{
+	width:100%;
+	height: 700px;
+}
+
+.icerik{
+	width: 1200px;
+	height: auto;
+	margin: 0 auto;
+	background: #FF8800;
+	margin-top: 370px;
+}
+.icerik-sol{
+	width: 860px;
+	height: 1690px;;
+	background:#eeff;
+	float:left;	
+	padding: 20px;
+	
+	
+	
+}
+.icerik-sol ul li{
+	font-size: 35px;
+	list-style-type: none;
+	margin-bottom: 350px;
+	margin-left: -50px 
+	
+	
+	
+	
+}
+.icerik-sag{
+	width: 100;
+	height: auto;
+	background:#ff7f00;
+	
+}
+
+.temizle
+{width: 100%;
+clear:both}
+.manga{
+	width: 100%;
+	height: 486px;
+	background: #eef;
+	margin-top: -300px;
+	margin-left:-70px;
+	
+	padding: 40px;
+	float: left;
+}
+.manga img{
+	width: 180px;
+	height: 250px;
+	padding: 15px;
+	float: left;
+	margin-top: -50px;
+}
+.manga-baslik{
+	
+	margin-top: -40px;
+	margin-left: 210px;
+	font-size: 20px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+.manga-yazi{
+	margin-top: 20px;
+	font-size: 25px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	margin-left: 210px;
+	margin-right: 20px;		
+}
+.yeni-manga{
+	
+	float: right;
+	margin-top: 25px;
+	margin-right: 25px;
+	width:230px;
+	padding: 10px;
+	height: 25px;
+	
+}
+
+.yeni-manga img{
+	width: 75px;
+	margin-top: 30px;
+	margin-left: 75px
+}
+
+.manga-basliki{
+	font-size: 22px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: center;
+	
+}
+.manga-yazii{
+	
+	font-size: 20px;
+	text-align: center;
+		
+	
+}
+.manga-basliki a{text-decoration: none; color: #0B111E;}
+.manga-yazii a{text-decoration: none; color: #0B111E;}
+.alt-kisim {
+	width: 100%;
+	height: 200px;
+	margin-top: 1800px;
+	background:#0D1F2F;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+.ust-alt-kisim{
+	
+	width: 100%;
+	height: 35px;
+	background:#eeff;
+	 
+}
+.ust-alt-kisim-sol{
+	
+	width: 500px;
+	float: left;
+	color: #E5E5E5;
+	line-height: 50px;
+}
+
+.ust-alt-kisim-sag{
+	
+	width: 500px;
+	float: right;
+	color: #E5E5E5;
+	 
+}
+.ust-alt-kisim-sol{
+	
+	width: 500px;
+	float: left;
+	color: #E5E5E5;
+	line-height: 50px;
+}
+
+.ust-alt-kisim-sag{
+	
+	width: 500px;
+	float: right;
+	color: #E5E5E5;
+}
